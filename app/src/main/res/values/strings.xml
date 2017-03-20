@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="help_info">"I Mattespel kan har du tre olika nivåer, Lätt, Medel och Svår.\n
+        Du kommer att få ett matematiskt problem som du ska svara på.\n
+        De bästa resultaten från applikationen kan du hitta under sektionen Topplista. </string>
+
+</resources>
